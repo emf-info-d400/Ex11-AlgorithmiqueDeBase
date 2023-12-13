@@ -1,4 +1,4 @@
-# Exercice 12 : Algorithmique de base
+# Exercice 11 : Algorithmique de base
 ## Objectifs :
 - **Maîtriser la création de méthodes utiles**. Pour cela, il est indispensable de toujours bien distinguer et de comprendre :
   - **ce que la méthode doit faire comme travail** (cela définira son cahier des charges et permettra de définir un nom de méthode adéquat avec un verbe d'action)
